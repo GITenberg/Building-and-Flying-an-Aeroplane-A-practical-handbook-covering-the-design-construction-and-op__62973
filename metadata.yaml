@@ -1,5 +1,8 @@
 _repo: Building-and-Flying-an-Aeroplane-A-practical-handbook-covering-the-design-construction-and-op__62973
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hayward, Charles B. (Charles Brian)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '52205'
     url: http://www.gutenberg.org/2009/agents/52205
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62973#Building-and-Flying-an-Aeroplane-A-practical-handbook-covering-the-design-construction-and-op_
 gutenberg_issued: '2020-08-18'
 gutenberg_type: Text
 identifiers:
