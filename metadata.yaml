@@ -1,0 +1,25 @@
+_repo: Building-and-Flying-an-Aeroplane-A-practical-handbook-covering-the-design-construction-and-op__62973
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hayward, Charles B. (Charles Brian)
+    alias: Hayward, Charles Brian
+    birthdate: 1876
+    gutenberg_agent_id: '52205'
+    url: http://www.gutenberg.org/2009/agents/52205
+description: ''
+gutenberg_issued: '2020-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62973'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Airplanes'
+- !lcc 'TL'
+- GITenberg
+title: "Building and Flying an Aeroplane\r\nA practical handbook covering the design,\
+  \ construction, and operation of aeroplanes and gliders"
+url: http://www.gutenberg.org/ebooks/62973
